@@ -1,4 +1,4 @@
-# K-Means Clustering - Mall Customers
+# K-Means Clustering -Análisis de Datos UNAD
 
 Este proyecto aplica el algoritmo de clustering **K-Means** para segmentar clientes basado en sus características de consumo, utilizando el dataset `Mall_Customers.csv`.
 
